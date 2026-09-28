@@ -72,3 +72,9 @@ Tạo một Component tên là `WindowSize`.
 4. **Lưu ý cực kỳ quan trọng:** Đừng quên hàm `cleanup` (return trong useEffect) để remove event listener (`window.removeEventListener`) khi component bị hủy, tránh tràn bộ nhớ.
 
 **Bạn hãy viết code và gửi cho tôi để review nhé!**
+
+==== Ý hiểu 
+- useEffect là hook dùng để thực hiện các tác nhân phụ bên trong component
+- ví dụ : Call API, thiết lập bộ đếm, tương tác với DOM,... đăg ký sự kiện
+
+

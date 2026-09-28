@@ -59,3 +59,7 @@ Tạo một component tên là `ProductCard` để hiển thị thông tin sản
 3. Tạo component `App` và sử dụng `ProductCard` ít nhất 3 lần với các dữ liệu khác nhau.
 
 **Bạn hãy viết code giải quyết bài tập này vào một file code thực tế, hoặc viết trực tiếp lên chat để tôi kiểm tra và chữa bài nhé!**
+
+//Viết lại theo ý hiểu 
+component là gì là các khối UI ( giao diện người dùng) các khối độc lập
+

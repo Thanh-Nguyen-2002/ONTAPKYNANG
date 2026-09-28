@@ -62,3 +62,8 @@ Tạo một Component tên là `ToggleText`.
 **Gợi ý:** Dùng `useState(false)` để lưu trạng thái ẩn/hiện (`true` hoặc `false`). Dùng toán tử ba ngôi `? :` để điều kiện hiển thị nút và văn bản.
 
 **Bạn hãy viết code giải quyết bài tập này và gửi lên đây nhé!**
+
+
+==== Hiểu 
+- useState là một hook trong reactJs dùng để quản lý trạng thái state trong component 
+- state thay đổi => React => re-render lại compoennt để cập nhật giao diện hiển thị dữ liệu mới 
